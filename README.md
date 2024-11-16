@@ -25,7 +25,11 @@ Welcome to **NeoStore**, a cutting-edge e-commerce platform designed with the la
 
 ## 📸 Screenshots
 
-![Featured Products](https://via.placeholder.com/1200x600.png?text=Featured+Products+Section)
+![Screenshot 2024-11-17 014334](https://github.com/user-attachments/assets/1ebb17cc-3fbb-4696-81e2-adda6b0614cc)
+![Screenshot 2024-11-17 014354](https://github.com/user-attachments/assets/25ef9a79-69f1-4413-b2e1-d4e61c8ef901)
+![Screenshot 2024-11-17 014456](https://github.com/user-attachments/assets/f5dd126e-373b-4cb9-a170-99754caeb6f5)
+
+
 
 *Example of Featured Products section with hover animations and smooth transitions.*
 
