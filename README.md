@@ -1,6 +1,3 @@
-Certainly! Here's a **README.md** for your project, complete with emojis, icons, and tables for better organization and clarity.
-
----
 
 # NeoStore - The Future of E-Commerce 🚀
 
